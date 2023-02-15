@@ -1,0 +1,31 @@
+{
+  "dogs": [
+  {
+  "id": 1,
+  "name": "Broken cobbles lining the entire area",
+  "img":
+  "pavement.jpg"
+  },
+  {
+  "id": 2,
+  "name": "The legendary estate of Perr'hozs the Pink overlooking The Fall",
+  "img":
+  "building1.jpg"
+  },
+  {
+  "id": 3,
+  "name": "The First Marketplace never ceases to amaze",
+  "img": "shop1.jpg"
+  },
+  {
+  "id": 4,
+  "name": "The Winding Worry leading to the Mozaic Baths",
+  "img": "alley.jpg"
+  },
+  {
+  "id": 5,
+  "name": "The Wailing Waters",
+  "img": "well1.jpg"
+  }
+  ]
+  }
